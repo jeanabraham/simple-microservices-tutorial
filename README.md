@@ -32,9 +32,15 @@ management.security.enabled=false
 ```
 
 Try out actuator endpoints:
-http://localhost:8080/actuator/beans 
+
+http://localhost:8080/actuator/beans
+
 http://localhost:8080/actuator/env
+
 http://localhost:8080/actuator/health 
+
 http://localhost:8080/actuator/metrics 
+
 http://localhost:8080/actuator/trace
+
 http://localhost:8080/actuator/mappings
